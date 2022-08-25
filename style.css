@@ -1,0 +1,23 @@
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+table * {
+	padding: 10px;
+}
+
+table tr, table td, table th {
+	border: 1px solid black;
+}
+
+.positivo {
+	background-color: green;
+	color: white;
+}
+
+.negativo {
+	background-color: red;
+	color: white;
+}
